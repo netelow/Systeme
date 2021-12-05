@@ -1,0 +1,34 @@
+{
+    "Actor": {},
+    "Item": {
+        "types":[
+            "weapon",
+            "vehicle"
+        ],
+        "templates": {
+            "itemDescription": {
+                "description": ""
+            }
+        },
+        "weapon": {
+            "templates": ["itemDescription"],
+            "attackWith": "sword",
+            "damage": 0,
+            "scope": 0
+        },
+        "vehicle": {
+            "templates": ["itemDescription"],
+            "vehicleType": "water",
+            "abilities": {
+                "int": {
+                "value": 0
+                },
+                "wis": {
+                "value": 0
+                },
+                "cha": {
+                "value": 0
+                }
+        }
+    }
+}}

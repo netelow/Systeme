@@ -1,0 +1,18 @@
+{
+    "aventure": {
+        "attack": {
+            "none": "",
+            "sword": "Sword",
+            "martialArts": "Martial Arts",
+            "sorcery": "Sorcery",
+            "creature": "Creature",
+            "scroungetech": "Scrougeteck",
+            "mutant": "Mutant"
+        },
+        "weapon": {
+            "attackWith": "Attack with:",
+            "damage": "Damage",
+            "scope": "Scope"
+        }
+    }
+}
